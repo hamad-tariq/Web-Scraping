@@ -4,10 +4,13 @@ In this project I extracted a list of the [Largest Companies in the United State
 
 ## Project Requirements
 
-~ Python
-~ Pandas
-~ Beautiful Soup
-~ Requests
+Python
+
+Pandas
+
+Beautiful Soup
+
+Requests
 
 ## Author
 
