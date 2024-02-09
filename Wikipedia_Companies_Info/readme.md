@@ -12,7 +12,7 @@ Beautiful Soup
 
 Requests
 
-## Outpur
+## Output
 
 ![Screenshot 2024-02-10 034006](https://github.com/hamad-tariq/Web-Scraping/assets/113939608/45fa6c46-5850-4b7f-a85a-e92b281da1e2)
 
