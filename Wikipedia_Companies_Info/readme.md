@@ -14,4 +14,4 @@ Requests
 
 ## Author
 
-[hamad-tariq] (https://github.com/hamad-tariq)
+[hamad-tariq](https://github.com/hamad-tariq)
